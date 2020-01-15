@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Tutorial1\\Tutorial1\\Tutorial1.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\Eustakios-Power\\friendzoneDetector\\Tutorial1\\Tutorial1.csproj",
       "projectName": "Friendzone Detector",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Tutorial1\\Tutorial1\\Tutorial1.csproj",
+      "projectPath": "C:\\Users\\Admin\\Source\\Repos\\Eustakios-Power\\friendzoneDetector\\Tutorial1\\Tutorial1.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Tutorial1\\Tutorial1\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Source\\Repos\\Eustakios-Power\\friendzoneDetector\\Tutorial1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

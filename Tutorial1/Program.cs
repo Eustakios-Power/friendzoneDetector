@@ -181,6 +181,7 @@ namespace Tutorial1
             Console.WriteLine();
 
             //wait
+            Console.WriteLine();
             Console.ReadKey();
         }
     }
